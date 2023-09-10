@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4125201681
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/prefab/p.jpg.ab
+      Dependencies: {}
+    Info_1:
+      Name: ui/res/pic1.png.ab
+      Dependencies: {}
+    Info_2:
+      Name: ui/res/pic2.png.ab
+      Dependencies: {}
+    Info_3:
+      Name: ui/res/pic3.jpg.ab
+      Dependencies: {}
+    Info_4:
+      Name: ui/res/pic4.jpg.ab
+      Dependencies: {}
+    Info_5:
+      Name: ui/res/pic5.jpg.ab
+      Dependencies: {}

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3605235304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12f05c7972b8cc13af726931de460312
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 12f05c7972b8cc13af726931de460312
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/UI/Res/pic3.jpg
+Dependencies: []
