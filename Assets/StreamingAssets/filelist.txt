@@ -1,0 +1,4 @@
+Assets/BuildResources/UI/Prefabs/TestUI.prefab|ui/prefabs/testui.prefab.ab|Assets/BuildResources/UI/Res/main_mp_bar.png|Assets/BuildResources/UI/Res/bg01.png
+Assets/BuildResources/UI/Res/bg01.png|ui/res/bg01.png.ab
+Assets/BuildResources/UI/Res/main_hp_bar.png|ui/res/main_hp_bar.png.ab
+Assets/BuildResources/UI/Res/main_mp_bar.png|ui/res/main_mp_bar.png.ab
